@@ -31,7 +31,7 @@ Feel free to file a new issue with a respective title and description on the **A
 ## Contribution :📲
 1. Clone the repository 
 ```
-$git clone https://github.com/Aayush9027/AI-Virtual-Paint.git
+$git clone https://github.com/MANISHKUMAR25/AI-Virtual-Paint.git
 ```
 2. Check the status of your file 
 ```
